@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.addtodo {
+  display: flex;
+  flex-direction: column;
+}
+
+
+.todolist {
+  display: flex;
+  flex-direction: column;
+  margin: 30px;
+}
+
+.todomodel {
+  display: flex;
+  flex-direction: rox;
+  justify-content: center;
+  justify-content: space-around;
+  margin: 10px;
+  
+}
